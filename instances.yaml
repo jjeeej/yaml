@@ -3,4 +3,4 @@ instances:
     image: "https://raw.githubusercontent.com/jjeeej/launcher/refs/heads/main/Icon.png"
     path: "C:\\Users\\martin\\Desktop\\euphonic-test"
     version: "fabric-loader-0.16.14-1.19.4"
-
+    download_url: "https://www.dropbox.com/scl/fi/emwjyvwa81yqdxthvi602/minecraft_instancia1.zip?rlkey=5wubhdbzmyrk16qmuo308ivea&st=hkcrarjn&dl=1"
