@@ -1,5 +1,6 @@
 instances:
-  - name: "TEST"
+  - name: ""
     image: "https://raw.githubusercontent.com/jjeeej/launcher/refs/heads/main/Icon.png"
     path: "C:\\Users\\martin\\Desktop\\euphonic-test"
     version: "fabric-loader-0.16.14-1.19.4"
+
