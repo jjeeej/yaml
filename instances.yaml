@@ -1,12 +1,10 @@
 instances:
-  - name: ""
+  - name: "Sandbox 1.19.4"
     image: "https://raw.githubusercontent.com/jjeeej/launcher/refs/heads/main/Icon.png"
     path: "C:\\Users\\martin\\Desktop\\euphonic-test"
     version: "fabric-loader-0.16.14-1.19.4"
 
-  - name: ""
+  - name: "The Backrooms Vol.2"
     image: "https://raw.githubusercontent.com/jjeeej/Icono/refs/heads/main/fondo.png"
     path: "C:\\Users\\martin\\Desktop\\euphonic-test"
     version: "fabric-loader-0.16.14-1.19.4"
-
-
