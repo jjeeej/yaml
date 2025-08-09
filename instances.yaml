@@ -1,7 +1,7 @@
 instances:
   - name: "Sandbox 1.19.4"
     image: "https://raw.githubusercontent.com/jjeeej/launcher/refs/heads/main/Icon.png"
-    path: "./Sandbox.1.19.4"
+    path: "./Sandbox-1.19.4"
     version: "fabric-loader-0.16.14-1.19.4"
     dropboxZipUrl: "https://www.dropbox.com/scl/fi/emwjyvwa81yqdxthvi602/instance.zip?rlkey=5wubhdbzmyrk16qmuo308ivea&st=0exp8rqe&dl=0"
 
@@ -14,6 +14,7 @@ instances:
     image: "https://raw.githubusercontent.com/jjeeej/launcher/refs/heads/main/3.jfif"
     path: ""
     version: "fabric-loader-0.16.14-1.19.4"
+
 
 
 
