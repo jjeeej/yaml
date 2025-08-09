@@ -3,6 +3,7 @@ instances:
     image: "https://raw.githubusercontent.com/jjeeej/launcher/refs/heads/main/Icon.png"
     path: "./euphonic-studios"
     version: "fabric-loader-0.16.14-1.19.4"
+    progressImage: "https://raw.githubusercontent.com/jjeeej/Icono/refs/heads/main/fondo.png"
     dropboxZipUrl: "https://www.dropbox.com/scl/fi/emwjyvwa81yqdxthvi602/instance.zip?rlkey=5wubhdbzmyrk16qmuo308ivea&st=0exp8rqe&dl=0"
 
   - name: "The Backrooms Vol.2"
@@ -14,6 +15,7 @@ instances:
     image: "https://raw.githubusercontent.com/jjeeej/launcher/refs/heads/main/3.jfif"
     path: ""
     version: "fabric-loader-0.16.14-1.19.4"
+
 
 
 
