@@ -1,17 +1,5 @@
 instances:
   - name: "Sandbox 1.19.4"
     image: "https://raw.githubusercontent.com/jjeeej/launcher/refs/heads/main/Icon.png"
-    path: "./Sandbox-1.19.4"
-    version: "fabric-loader-0.16.14-1.19.4"
-    dropboxZipUrl: "https://www.dropbox.com/scl/fi/emwjyvwa81yqdxthvi602/instance.zip?rlkey=5wubhdbzmyrk16qmuo308ivea&st=0exp8rqe&dl=0"
-
-  - name: "The Backrooms Vol.2"
-    image: "https://raw.githubusercontent.com/jjeeej/Icono/refs/heads/main/fondo.png"
-    path: "./The-Backrooms-Vol-2"
-    version: "fabric-loader-0.16.14-1.19.4"
-    dropboxZipUrl: "https://www.dropbox.com/scl/fi/eh12mkbjtxe9l1jt3sask/eufonia-minecraft1.zip?rlkey=6tzyfm236fsoz37bfzinm0wel&st=74tqbzm1&dl=0"
-
-  - name: "ULTRA HARDCORE"
-    image: "https://raw.githubusercontent.com/jjeeej/Icono/refs/heads/main/uhc.png"
-    path: "./uhc"
+    path: "C:\Users\martin\Desktop\MinecraftLauncher\Sandbox-1.19.4"
     version: "fabric-loader-0.16.14-1.19.4"
