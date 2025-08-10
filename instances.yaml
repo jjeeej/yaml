@@ -5,7 +5,8 @@ instances:
     version: "fabric-loader-0.16.14-1.19.4"
 
   - name: "Saw MInecraft Games"
-    image: "https://raw.githubusercontent.com/jjeeej/launcher/refs/heads/main/Icon.png"
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-6BmwhSRnDqkhB06KQOysVouYv-z_MxyxWzX_QpSRr5Oz_VeLVGRR7r6jkqm3ve4lALo&usqp=CAU"
     path: "C:\\Users\\martin\\Desktop\\MinecraftLauncher\\Sandbox-1.19.4"
     version: "fabric-loader-0.16.14-1.19.4"
     dropboxZipUrl: "https://www.dropbox.com/scl/fi/eh12mkbjtxe9l1jt3sask/eufonia-minecraft1.zip?rlkey=6tzyfm236fsoz37bfzinm0wel&st=kct94v4j&dl=0"
+
