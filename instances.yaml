@@ -10,7 +10,8 @@ instances:
     path: "C:\\Users\\martin\\AppData\\Local\\Programs\\studio.euphonic.client\\instances\\The Backrooms Vol.2"
     version: "fabric-loader-0.16.14-1.19.4"
 
-  - name: "Laser craft tag"
+  - name: "Laser tag"
     image: "https://raw.githubusercontent.com/jjeeej/Icono/refs/heads/main/laser%20craft%20tag.png"
-    path: "C:\\Users\\martin\\AppData\\Local\\Programs\\studio.euphonic.client\\instances\\Laser craft tag"
+    path: "C:\\Users\\martin\\AppData\\Local\\Programs\\studio.euphonic.client\\instances\\Laser tag"
     version: "testeo"
+
